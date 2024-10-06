@@ -49,5 +49,5 @@ because I wasn't sure some calculations would stay within `mediump` or at least 
 The `old` folder contains a few messy remnants of my long-ago attempts at this, including building up a big multi-pass shader. This would _sometimes_ work beautifully, but often not, and as mentioned
 above I imagine a large part of this was the poor little RGBA8 texture crying uncle.
 
-The sample there was another try using an [Eigen plugin](https://github.com/ggcrunchy/eigen-lua). I seem to remember this working quite well, though said plugin wanted (and still does!) quite a lot of rework.
---and updates now, I suppose--so I never went too far with it.
+The sample there was another try using an [Eigen plugin](https://github.com/ggcrunchy/eigen-lua). I seem to remember this working quite well, though said plugin wanted (and still does!) quite a lot of
+rework&mdash;and updates now, I suppose&mdash;so I never went too far with it.
