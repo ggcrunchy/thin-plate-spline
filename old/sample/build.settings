@@ -1,0 +1,22 @@
+settings =
+{
+	android =
+	{
+	-- versionCode = "3"
+	},
+
+	androidPermissions =
+	{
+	},
+
+	orientation =
+	{
+		default = "landscape"
+	},
+
+    plugins =
+    {
+	--	["plugin.bit"] = { publisherId = "com.coronalabs" },
+		["plugin.memoryBitmap"] = { publisherId = "com.coronalabs" }
+	}
+}
